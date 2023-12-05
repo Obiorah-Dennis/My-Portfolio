@@ -191,7 +191,7 @@ body {
     }
 }
 
-/* styles.css */
+
 
 body {
     font-family: Arial, sans-serif;
@@ -250,7 +250,7 @@ footer {
     width: 100%;
 }
 
-/* ... (existing code) ... */
+
 
 #weather-section {
     position: relative;
@@ -263,4 +263,3 @@ footer {
     text-align: right;
 }
 
-/* ... (existing code) ... */
